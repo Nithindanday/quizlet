@@ -1,3 +1,8 @@
+A fork where i intend to fix some stuff and add a lot of quality of life changes
+
+
+
+
 Now open source!
 ------
 Download the chrome extension from [here](https://chrome.google.com/webstore/detail/snowlords-quizlet-extensi/ocpkldjgfaimjjemnlppehhgdbagajhp "Chrome Extension")!
